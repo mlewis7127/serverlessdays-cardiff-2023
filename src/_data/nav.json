@@ -16,26 +16,9 @@
             "name": "Agenda"
         },
         {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers"
-        },
-        {
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
-        },
-        {
-            "key": "sponsors",
-            "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus.pdf",
-            "name": "Sponsors",
-            "cta": "true"
-        },
-        {
-            "key": "tickets",
-            "path": "/tickets",
-            "name": "Tickets",
-            "cta": "true"
         }
     ]
 }

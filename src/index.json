@@ -15,160 +15,27 @@
         "hero": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571607730/cardiff_dmlbbi.jpg",
         "tagline": "One Day. One Track. One Community",
         "cta": {
-            "path": "./tickets",
-            "name": "Tickets"
+            "path": "#",
+            "name": "Call for Papers"
         },
         "altCTA": {
-            "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus.pdf",
+            "path": "#",
             "name": "Sponsors"
         }
     },
     "sponsors": {
       "gold": [  
-      {
-        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_90/v1578854316/logos/lumigo_sarvbm.png",
-        "alt": "Lumigo",
-        "link": "https://lumigo.io/"
-      },
-      {
-        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_95/v1578765331/Mobilise_Logo_ayuydd.png",
-        "alt": "Mobilise.cloud",
-        "link": "https://www.mobilise.cloud/"
-      },
-      {
-        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_90/v1528241128/Amazon_Web_Services_Logo_white.png",
-        "alt": "Amazon Web Services",
-        "link": "https://aws.amazon.com/"
-      },
-      {
-        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_55/v1580730661/logos/capgemini_cqmko7.png",
-        "alt": "Capgemini",
-        "link": "https://www.capgemini.com/"
-      }  
       ],
       "silver": [
-        {
-          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_70/v1579778947/logos/AIRBUS_White_dleec7.png",
-          "alt": "AIRBUS",
-          "link": "https://www.airbus.com/"
-        } ,
-        {
-          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_60/v1580765986/logos/hodge-bank-logo_wyebew.png",
-          "alt": "hodge",
-          "link": "https://www.hodgebank.co.uk/"
-        }  
       ],
       "bronze": [
-        {
-          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_40/v1578856566/logos/slappforge_m5j3pp.png",
-          "alt": "SLAppForge",
-          "link": "https://www.slappforge.com/"
-        },
-        {
-          "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
-          "alt": "Thundra",
-          "link": "https://thundra.io"
-        },
-        {
-          "img": "https://res.cloudinary.com/dsctrdkro/image/upload/c_scale,h_40/v1578853697/logos/dog_group.png",
-          "alt": "DevOpsGroup",
-          "link": "https://www.devopsgroup.com/"
-        }
       ],
       "community": [
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_25/v1578764990/Manninglogo_outline_s0bs7n.png",
-          "alt": "Manning",
-          "link": "https://www.manning.com/"
-        },
-        {
-          "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_80/v1579295423/jetbrains_spyqvo.png",
-          "alt": "JetBrains",
-          "link": "https://www.jetbrains.com/"
-        } 
       ]
     },
     "speakers": {
-        "text": "The 2020 edition of ServerlessDays Cardiff brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r  With this in mind we have a fantastic lineup already confirmed, looking at the opportunities afforded by serverless, best practices in migrating to serverless, options for addressing the pain points and enterprises sharing what they’re doing today in production. We hope the 2020 edition of ServerlessDays Cardiff will have something for everyone.",
+        "text": "We are excited to bring fantastic speakers on a range of topics. We will shortly open a call for papers.",
         "lineup": [
-          {
-            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576097520/speakers/sheen_udeprz.jpg",
-            "alt": "Sheen Brisals",
-            "link": "/speakers/sheen",
-            "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach and the serverless technologies that made the vision a great success."
-        },
-        {
-            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576525702/speakers/Farrah_Campbell_ckmynu.jpg",
-            "alt": "Farrah Campbell",
-            "link": "/speakers/farrah",
-            "talk": "Serverless is a relatively new & with that comes a new community & new opportunities. In this talk you will learn how one woman is taking advantage of the new opportunities provided by the Serverless Ecosystem and has aligned her personal goals with business goals."
-        },
-        {
-            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576527022/speakers/Aviad_Mor_ucleyr.jpg",
-            "alt": "Aviad Mor",
-            "link": "/speakers/aviad",
-            "talk": "Getting the needed traceability in order to troubleshoot quickly across managed a-sync services is not simple. We would like to share our experience of how this can be done."
-        },
-        {
-            "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1577031107/speakers/beth_north_xx9cpr.jpg",
-            "alt": "Beth North",
-            "link": "/speakers/beth",
-            "talk": "50% of employees experience imposter syndrome in their career, this rises to nearly 70% in the tech industry. I want to talk you through my own experience as a Woman in Tech and give some tips on what has helped me push myself when that Imposter Goblin won’t stop talking when you want to work."
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577196533/jeremy-daly_uqcjcu.png",
-            "alt": "Jeremy Daly",
-            "link": "/speakers/jeremy",
-            "talk": "Serverless functions have the ability to scale almost infinitely. While great for compute, it can be a MAJOR PROBLEM for other downstream resources. In this talk, we’ll discuss strategies and patterns to create highly resilient serverless apps that mitigate pressure on “non-serverless” systems"
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577197266/carl_austin_jrweig.jpg",
-            "alt": "Carl Austin",
-            "link": "/speakers/carl",
-            "talk": "Serverless is the saving grace of the data lake, projects known for high rates of failure. We will talk you through a successful production data lake delivery for a UK bank using Azure serverless capabilities to not only succeed but deliver in a matter of months."
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577197679/yordanka_f2b4b4.jpg",
-            "alt": "Yordanka Ivanova",
-            "link": "/speakers/yordanka",
-            "talk": "Serverless is the saving grace of the data lake, projects known for high rates of failure. We will talk you through a successful production data lake delivery for a UK bank using Azure serverless capabilities to not only succeed but deliver in a matter of months."
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577199193/yan-cui_jfftlm.png",
-            "alt": "Yan Cui",
-            "link": "/speakers/yan",
-            "talk": "Refactoring a monolith to serverless can be intimidating, but there are discrete steps that you can take to simplify the process. In this talk, AWS Serverless Hero Yan Cui outlines 8 steps to successfully refactor your monolith and highlight key decision points such as language and tooling choices."
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577206455/danilo-poccia_og5sdj.jpg",
-            "alt": "Danilo Poccia",
-            "link": "/speakers/danilo",
-            "talk": "The purpose of this talk is to map features to real world use cases, so that everyone can get more value from this serverless thing!"
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577205399/sara-gerion_zxui2x.jpg",
-            "alt": "Sara Gerion",
-            "link": "/speakers/sara",
-            "talk": "Lessons learnt from not so obvious failure modes of AWS serverless services at DAZN, and how to mitigate them, from a backend engineer perspective."
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577876281/daniel-bass_v6rfrv.jpg",
-            "alt": "Daniel Bass",
-            "link": "/speakers/daniel",
-            "talk": "Hear about how we built a sophisticated and user configurable Slack Bot which gives customized trade reports to financial analysts using Serverless technologies on Azure. Learn the patterns we used and the architectural decisions we made from an experienced Serverless Enterprise developer and author."
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578131864/david-carboni_prfaeu.jpg",
-            "alt": "David Carboni",
-            "link": "/speakers/david",
-            "talk": "What happens when you have a shiny ML model to detect mangroves, access to a global satellite imagery open dataset and want to serve it to customers ad-hoc without full time infrastructure?"
-        },
-        {
-            "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1579267775/siobhan_umnui0.jpg",
-            "alt": "Siobhan Stephens",
-            "link": "/speakers/siobhan",
-            "talk": "Many renters find it difficult to get on the housing ladder and local start-up TenantFootprint aims to help solve this.  Hear about how Serverless technology has been used to bridge the gap between boostrap and scale up."
-        }
       ]
     },
     "agenda": [
@@ -190,173 +57,15 @@
       {
         "time": "09:30",
         "name": "Opening Talk",
-        "title": "How to refactor a monolith to serverless in 8 steps",
         "speaker": [
           {
-            "name": "Yan Cui",
-            "link": "/speakers/yan"
+            "name": "TBC"
           }
         ],
         "type": "talk"
       },
       {
-        "time": "10:00",
-        "name": "Talk",
-        "title": "To Serverless and Beyond! Successful eCommerce Migration at LEGO",
-        "speaker": [
-          {
-            "name": "Sheen Brisals",
-            "link": "/speakers/sheen"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "10:30",
-        "name": "Talk",
-        "title": "Building a serverless data lake in Azure",
-        "speaker": [
-          {
-            "name": "Carl Austin",
-            "link": "/speakers/carl"
-          },
-          {
-            "name": "Yordanka Ivanova",
-            "link": "/speakers/yordanka"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "11:00",
-        "name": "Break",
-        "type": "break"
-      },
-      {
-        "time": "11:30",
-        "name": "Talk",
-        "title": "Leveling up with Serverless",
-        "speaker": [
-          {
-            "name": "Farrah Campbell",
-            "link": "/speakers/farrah"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "12:00",
-        "name": "Talk",
-        "title": "Removed"
-      },
-      {
-        "time": "12:30",
-        "name": "Talk",
-        "title": "Observability across serverless asynchronous managed services",
-        "speaker": [
-          {
-            "name": "Aviad Mor",
-            "link": "/speakers/aviad"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "13:00",
-        "name": "Lunch",
-        "type": "break"
-      },
-      {
-        "time": "14:00",
-        "name": "Lightning Talk",
-        "title": "Serverless Slack Bots with Azure Durable Functions",
-        "speaker": [
-          {
-            "name": "Daniel Bass",
-            "link": "/speakers/daniel"
-          }
-        ],
-        "type": "lightning"
-      },
-      {
-        "time": "14:15",
-        "name": "Lightning Talk",
-        "title": "Using Serverless to help Generation Rent",
-        "speaker": [
-          {
-            "name": "Siobhan Stephens",
-            "link": "/speakers/siobhan"
-          }
-        ],
-        "type": "lightning"
-      },
-      {
-        "time": "14:30",
-        "name": "Lightning Talk",
-        "title": "Detecting mangrove forests with serverless",
-        "speaker": [
-          {
-            "name": "David Carboni",
-            "link": "/speakers/david"
-          }
-        ],
-        "type": "lightning"
-      },
-      {
-        "time": "14:45",
-        "name": "Lightning Talk",
-        "title": "Imposter Syndrome as a Techie",
-        "speaker": [
-          {
-            "name": "Beth North",
-            "link": "/speakers/beth"
-          }
-        ],
-        "type": "lightning"
-      },
-      {
-        "time": "15:00",
-        "name": "Break",
-        "type": "break"
-      },
-      {
-        "time": "15:30",
-        "name": "Talk",
-        "title": "Building Resilient Serverless Systems with “Non-Serverless” Components",
-        "speaker": [
-          {
-            "name": "Jeremy Daly",
-            "link": "/speakers/jeremy"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "16:00",
-        "name": "Talk",
-        "title": "Failure modes in serverless services",
-        "speaker": [
-          {
-            "name": "Sara Gerion",
-            "link": "/speakers/sara"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "16:30",
-        "name": "Closing Talk",
-        "title": "What Can You Do with Serverless ...in 2020?",
-        "speaker": [
-          {
-            "name": "Danilo Poccia",
-            "link": "/speakers/danilo"
-          }
-        ],
-        "type": "talk"
-      },
-      {
-        "time": "17:00",
+        "time": "17:15",
         "name": "Closing Remarks",
         "speaker": [
           {
@@ -366,14 +75,14 @@
         "type": "talk"
       },
       {
-        "time": "17:15",
+        "time": "17:30",
         "name": "Networking and Drinks - the venue will stay open till 22:00",
         "type": "break"
       }
 
     ],
     "venue": {
-        "text": "After the 2019 event sold out, ServerlessDays Cardiff is moving to an even bigger venue in the DEPOT \r\n \r\n**Location:** DEPOT, Williams Way, Penarth Road, Cardiff, CF10 5DY ",
+        "text": "After the success of the 2020 edition, ServerlessDays Cardiff will once again be held in the DEPOT \r\n \r\n**Location:** DEPOT, Williams Way, Penarth Road, Cardiff, CF10 5DY ",
         "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571900550/depot_ivziis.jpg",
         "cta": {
             "path": "https://www.google.com/maps/place/Cardiff/@51.5023268,-3.2750894,12z/data=!3m1!4b1!4m5!3m4!1s0x486e02d434ec53f5:0x143406db6586670e!8m2!3d51.481581!4d-3.17909",
