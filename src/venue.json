@@ -1,0 +1,9 @@
+{
+    "layout": "venue.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Venue",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/venue",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571900550/depot_ivziis.jpg"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "layout": "news.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - News",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/news",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    },
+    "lead":         {
+        "headline": "It's nearly time for ServerlessDays 2020!",
+        "description": "The excitement is building, the attendees are gathering, the servers are quaking in their racks... ServerlessDays Cardiff 2020 on Thursday February 13th is almost upon us!",
+        "date": "20 October 2020",
+        "link": "#",
+        "image": ""
+    },
+    "posts": [
+        
+    ]
+}

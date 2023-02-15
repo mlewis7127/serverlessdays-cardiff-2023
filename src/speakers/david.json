@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - David Carboni",
+      "description": "Wouldn't it be nice if government policy could be turned into a computational model? Policy In Practice has done just that to help people understand what benefits they can claim and help councils support the most at risk from poverty and hardship. As the service grows in popularity, manual processes behind the scenes soon expand to fill the team's time and it's time to automate. Using Lambda and Fargate, Policy in Practice is transforming operations into an event-driven data pipeline.",
+      "url": "https://cardiff.serverlessdays.io/speakers/david",
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578131864/david-carboni_prfaeu.jpg"
+  },
+  "speaker": {
+      "name": "David Carboni",
+      "title": "Co-Founder & head geek (Technology Director) at NotBinary",
+      "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578131864/david-carboni_prfaeu.jpg",
+      "bio": "Culture, technology and digital transformation. Practical technology design & delivery. Work hard be kind. Co-Founder & head geek (Technology Director) at NotBinary. Simple, thoughtful, user-centred technology design.",
+      "talk": {
+          "title": "Identifying Drivers of Poverty with Lambda and Fargate",
+          "abstract" : "Wouldn't it be nice if government policy could be turned into a computational model? Policy In Practice has done just that to help people understand what benefits they can claim and help councils support the most at risk from poverty and hardship. As the service grows in popularity, manual processes behind the scenes soon expand to fill the team's time and it's time to automate. Using Lambda and Fargate, Policy in Practice is transforming operations into an event-driven data pipeline."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/davidcarboni",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}

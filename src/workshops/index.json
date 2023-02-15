@@ -1,0 +1,95 @@
+{
+    "layout": "workshops.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Workshops",
+        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
+        "url": "https://cardiff.serverlessdays.io/workshops",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    },
+    "workshops": [   
+        
+        {
+            "title": "Remote debugging of live AWS Lambda functions",
+            "description": "Learn how to use open source technology to add remote debugging to your favorite IDE for AWS Lambda.",
+            "date": "12 Feb 2020",
+            "link": "./slappforge",
+            "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578392696/slappforge-logo-light-version_cdbnou.svg",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "Tramshed Tech, Unit D, Pendyris St, Cardiff CF11 6BH",
+            "capacity": "20",
+            "speakers": [
+                {
+                  "name": "Wallace Wilhoite",
+                  "title": "CEO",
+                  "company": "SLAppForge"
+                },
+                {
+                    "name": "Asankha Perera",
+                    "title": "Founder",
+                    "company": "SLAppForge"
+                },
+                {
+                    "name": "Udith Gunaratna",
+                    "title": "Co-Founder",
+                    "company": "SLAppForge"
+                }
+            ]
+        },
+        {
+            "title": "Serverless Web Application Workshop",
+            "description": "In this workshop you'll deploy a simple web application that enables users to request unicorn rides from the Wild Rydes fleet.",
+            "date": "12 Feb 2020",
+            "link": "./aws",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "DevOps Group, Floor 22, Capital Tower, Greyfriars Rd, Cardiff CF10 3AG",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Michael Hume",
+                  "title": "Solutions Architect",
+                  "company": "AWS"
+                }
+            ]
+        },
+        {
+            "title": "Serverless Monitoring and Troubleshooting with Lumigo",
+            "description": "In this workshop you will learn how to troubleshoot issues in your serverless applications.",
+            "date": "12 Feb 2020",
+            "link": "./lumigo",
+            "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1578315712/lumigo-white_axh0ix.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "Tramshed Tech, Unit D, Pendyris St, Cardiff CF11 6BH",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Yan Cui",
+                  "title": "Developer Advocate",
+                  "company": "Lumigo"
+                }
+            ]
+        },
+        {
+            "title": "Serverless Security Workshop",
+            "description": "In this workshop we'll deploy a simple Serverless application to Microsoft Azure, but there's a problem, it has a few security gaps that need addressing. That's our job to fix.",
+            "date": "12 Feb 2020",
+            "link": "./microsoft",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "Tramshed Tech, Unit D, Pendyris St, Cardiff CF11 6BH",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Dean Bryen",
+                  "title": "Principal Cloud Security Advocate",
+                  "company": "Microsoft"
+                }
+            ]
+        }
+
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays - Serverless Security Workshop",
+        "description": "In this workshop we'll deploy a simple Serverless application to Microsoft Azure, but there's a problem, it has a few security gaps that need addressing. That's our job to fix. We'll implement security best practices, to improve our application's security posture, and protect it from potential threats.",
+        "url": "https://cardiff.serverlessdays.io/workshops/microsoft",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    }
+}

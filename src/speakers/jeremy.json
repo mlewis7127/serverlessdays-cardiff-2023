@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Jeremy Daly",
+      "description": "Serverless functions have the ability to scale almost infinitely. While great for compute, it can be a MAJOR PROBLEM for other downstream resources. In this talk, we’ll discuss strategies and patterns to create highly resilient serverless apps that mitigate pressure on “non-serverless” systems.",
+      "url": "https://cardiff.serverlessdays.io/speakers/jeremy",
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577196533/jeremy-daly_uqcjcu.png"
+  },
+  "speaker": {
+      "name": "Jeremy Daly",
+      "title": "CTO of AlertMe, Host of Serverless Chats Podcast, AWS Serverless Hero",
+      "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577196533/jeremy-daly_uqcjcu.png",
+      "bio": "Jeremy is a passionate serverless advocate, an AWS Serverless Hero, and a senior technology leader with more than 20 years of experience building web and mobile applications. He is an active member of the serverless community, creating and contributing to open source serverless projects, and frequently consulting with companies looking to adopt serverless. Jeremy also writes extensively about serverless on his blog (jeremydaly.com), publishes Off-by-none, a weekly email newsletter that focuses on all things serverless (offbynone.io), and hosts the Serverless Chats Podcast (serverlesschats.com). He is currently the CTO of AlertMe.",
+      "talk": {
+          "title": "Building Resilient Serverless Systems with “Non-Serverless” Components",
+          "abstract" : "Serverless functions have the ability to scale almost infinitely. While great for compute, it can be a MAJOR PROBLEM for other downstream resources. In this talk, we’ll discuss strategies and patterns to create highly resilient serverless apps that mitigate pressure on “non-serverless” systems."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/jeremy_daly",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Danilo Poccia",
+      "description": "Looking at some of the more recent updates, this session is introducing the reasoning behind the new features, and how to use them to reduce your architecture complexity, including real world examples of what AWS customers are doing, so that you can focus on creating value for YOUR customers.",
+      "url": "https://cardiff.serverlessdays.io/speakers/danilo",
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577206455/danilo-poccia_og5sdj.jpg"
+  },
+  "speaker": {
+      "name": "Danilo Poccia",
+      "title": "Principal Evangelist at Amazon Web Services",
+      "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577206455/danilo-poccia_og5sdj.jpg",
+      "bio": "Danilo works with startups and companies of any size to support their innovation. In his role as Principal Evangelist at Amazon Web Services, he leverages his experience to help people bring their ideas to life, focusing on serverless architectures and event-driven programming, and on the technical and business impact of machine learning and edge computing. He is the author of AWS Lambda in Action from Manning",
+      "talk": {
+          "title": "What Can You Do with Serverless ...in 2020?",
+          "abstract" : "Serverless is always evolving (faster than any definition) and each year new capabilities simplify existing workloads and enable new applications to be implemented in an easier, more efficient way. At AWS, we have focused on improving observability, configuration management, functions invocations, service integrations, and execution environments. Looking at some of the more recent updates, this session is introducing the reasoning behind the new features, and how to use them to reduce your architecture complexity, including real world examples of what AWS customers are doing, so that you can focus on creating value for YOUR customers."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/danilop",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}

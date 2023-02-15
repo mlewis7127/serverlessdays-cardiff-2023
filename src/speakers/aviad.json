@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Aviad Mor",
+      "description": "After 10 years of working in healthcare management, a serendipitous 20-minute car ride with Kara Swisher inspired Farrah to make the jump into technology. She has worked at multiple startups in many different capacities, eventually working her way to being the Ecosystems Director for Stackery in Portland, Oregon. She is known for not only her ability to get things done but her track-record of accomplishing lofty goals in creative, dynamic ways with an infectious smile. Her passion lies in influencing outcomes and driving projects with multiple stakeholders, priorities, and personalities towards a common goal. She will be the first to tell you how much she loves the chaos and challenges that tech provides. Farrah has shaped a unique story and career that supports her passion for fostering genuine, vibrant communities. She aims to re-define the experience of “providing a service” with a no bs attitude and lots of compassion.",
+      "url": "https://cardiff.serverlessdays.io/speakers/aviad",
+      "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576527022/speakers/Aviad_Mor_ucleyr.jpg"
+  },
+  "speaker": {
+      "name": "Aviad Mor",
+      "title": "Co-Founder & CTO at @lumigo. Working on #serverless tools for #serverless architectures (sometimes, at night, the other way around) ",
+      "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576527022/speakers/Aviad_Mor_ucleyr.jpg",
+      "bio": "Aviad Mor is the Co-Founder & CTO at Lumigo. Lumigo’s SaaS platform helps companies monitor and troubleshoot serverless applications while providing actionable insights that prevent business disruptions. Aviad has over a decade of experience in technology leadership, heading the development of core products in Check Point from inception to wide adoption.",
+      "talk": {
+          "title": "Observability across serverless asynchronous managed services",
+          "abstract" : "Serverless computing transactions are a combination of owned code (like AWS Lambda) and managed services (Like SNS, SQS, EventBridge, DynamoDB and more). Applying distributed tracing on your own code through instrumentation is relatively simple (though require a lot of work). The challenge lays with the managed service, how to trace a full transaction across services like queues, streams, and databases. In this session we will discuss: - The technical challenges gaining observability with managed services. - Methods to build the full trail of transactions across managed services. - Ideas on how to obtain observability in a highly async distributed world. - We’ll technically drill down to some managed services examples.\n\nLet’s have an async observability discussion."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/AviadMor",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}

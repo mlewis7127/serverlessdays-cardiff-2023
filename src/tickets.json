@@ -1,0 +1,38 @@
+{
+    "layout": "tickets.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Tickets",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/tickets",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    },
+    "tickets": [
+        {
+            "title": "Standard Ticket",
+            "description": "Standard Admission",
+            "price": "£30",
+            "cta": {            
+                "path": "#",
+                "name": "Expired"
+            }
+        },
+        {
+            "title": "Standard + Sponsor Ticket",
+            "description": "Standard Admission for you and sponsor a ticket for someone else",
+            "price": "£60",
+            "cta": {            
+                "path": "#",
+                "name": "Expired"
+            }
+        },
+        {
+            "title": "Scholarship",
+            "description": "Scholarship ticket - we have joined up with local groups",
+            "price": "£0",
+            "cta": {            
+                "path": "",
+                "name": "Expired"
+            }
+        }
+    ]
+}

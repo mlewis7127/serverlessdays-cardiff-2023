@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Sara Gerion",
+      "description": "In DAZN, we often rely on AWS serverless services to build a global platform that needs to be highly scalable and highly available. Serverless computing allows developers to focus on the business logic implementation rather than cluster provisioning, maintenance of operative systems and containers orchestration. It also comes with great fault tolerance and reliability. How many times have you heard the phrase: 'You don't need to worry about it, AWS takes care of that for you'. While this is certainly true in some scenarios, it's not always the case. I will go through some examples of not so obvious failure modes of serverless services in AWS, and how to mitigate them, from a backend engineer perspective.",
+      "url": "https://cardiff.serverlessdays.io/speakers/sara",
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577205399/sara-gerion_zxui2x.jpg"
+  },
+  "speaker": {
+      "name": "Sara Gerion",
+      "title": "Backend software engineer at DAZN",
+      "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577205399/sara-gerion_zxui2x.jpg",
+      "bio": "Sara is a backend software engineer at DAZN, and Director of Technology at SheSharp",
+      "talk": {
+          "title": "Failure modes in serverless services",
+          "abstract" : "In DAZN, we often rely on AWS serverless services to build a global platform that needs to be highly scalable and highly available. Serverless computing allows developers to focus on the business logic implementation rather than cluster provisioning, maintenance of operative systems and containers orchestration. It also comes with great fault tolerance and reliability. How many times have you heard the phrase: 'You don't need to worry about it, AWS takes care of that for you'. While this is certainly true in some scenarios, it's not always the case. I will go through some examples of not so obvious failure modes of serverless services in AWS, and how to mitigate them, from a backend engineer perspective."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/sarutule",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Beth North",
+      "description": "50% of employees experience imposter syndrome in their career, this rises to nearly 70% in the tech industry. I want to talk you through my own experience as a Woman in Tech and give some tips on what has helped me push myself when that Imposter Goblin won’t stop talking when you want to work.",
+      "url": "https://cardiff.serverlessdays.io/speakers/beth",
+      "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1577031107/speakers/beth_north_xx9cpr.jpg"
+  },
+  "speaker": {
+      "name": "Beth North",
+      "title": "QA Lead",
+      "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1577031107/speakers/beth_north_xx9cpr.jpg",
+      "bio": "Beth is a QA Lead for one of the largest global energy companies. She has worked in testing for 4 years, in a wide variety of testing disciplines and is always interested in learning more. In her free time, Beth is a gamer, foodie and gig-attendee; she has an avid interest in learning about science, medicine and history.",
+      "talk": {
+          "title": "Imposter Syndrome as a Techie",
+          "abstract" : "50% of employees experience imposter syndrome in their career, this rises to nearly 70% in the tech industry. I want to talk you through my own experience as a Woman in Tech and give some tips on what has helped me push myself when that Imposter Goblin won’t stop talking when you want to work."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/eccentrictester",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}

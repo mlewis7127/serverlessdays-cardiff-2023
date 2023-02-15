@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "ServerlessDays - Serverless Web Application Workshop",
+        "description": "Deploy a simple web application that enables users to request unicorn rides from the Wild Rydes fleet. The application architecture uses AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB, Amazon Cognito, and AWS Amplify Console.",
+        "url": "https://cardiff.serverlessdays.io/workshops/aws",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    }
+}

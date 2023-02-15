@@ -1,0 +1,41 @@
+{
+    "layout": "coc.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Home",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/coc",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    },
+    "navBarItems": [
+        {
+            "key": "news",
+            "path": "/news",
+            "name": "News"
+        },
+        {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
+        },
+        {
+            "key": "coc",
+            "path": "/coc",
+            "name": "Code of Conduct"
+            },
+        {
+            "key": "tickets",
+            "path": "/tickets",
+            "name": "Tickets",
+            "cta": "true"
+        }
+    ],
+    "contact": {
+        "email": "cardiff@serverlessdays.io",
+        "twitter": "https://twitter.com/@ServerlessCWL"
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "layout": "agenda.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Agenda",
+        "description": "One Day. One Track. One Community",
+        "url": "https://cardiff.serverlessdays.io/agenda",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+    },
+    "agenda": [
+        {
+          "time": "08:00",
+          "name": "Doors Open",
+          "type": "break"
+        },
+        {
+          "time": "09:15",
+          "name": "Welcome Remarks",
+          "speaker": [
+            {
+              "name": "ServerlessDays Team"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "09:30",
+          "name": "Talk",
+          "title": "How to refactor a monolith to serverless in 8 steps",
+          "abstract": "Refactoring a monolith to serverless can be intimidating, but there are discrete steps that you can take to simplify the process. In this talk, AWS Serverless Hero Yan Cui outlines 8 steps to successfully refactor your monolith and highlight key decision points such as language and tooling choices.",
+          "speaker": [
+            {
+              "name": "Yan Cui",
+              "link": "/speakers/yan"
+            }
+          ],
+          "type": "keynote"
+        },
+        {
+          "time": "10:00",
+          "name": "Talk",
+          "title": "To Serverless and Beyond! Successful eCommerce Migration at LEGO",
+          "abstract": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach and the serverless technologies that made the vision a great success.",
+          "speaker": [
+            {
+              "name": "Sheen Brisals",
+              "link": "/speakers/sheen"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "10:30",
+          "name": "Talk",
+          "title": "Building a serverless data lake in Azure",
+          "abstract": "Serverless is the saving grace of the data lake, projects known for high rates of failure. We will talk you through a successful production data lake delivery for a UK bank using Azure serverless capabilities to not only succeed but deliver in a matter of months",
+          "speaker": [
+            {
+              "name": "Carl Austin",
+              "link": "/speakers/carl"
+            },
+            {
+              "name": "Yordanka Ivanova",
+              "link": "/speakers/yordanka"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "11:00",
+          "name": "Break",
+          "type": "break"
+        },
+        {
+          "time": "11:30",
+          "name": "Talk",
+          "title": "Leveling up with Serverless",
+          "abstract": "In this session, Farrah will share her motivations for learning Serverless, her personal experiences working in the Serverless ecosystem, the surprising ways that these new skills have benefited her career, and why she believes that serverless can be for anyone and everyone who’s willing to learn",
+          "speaker": [
+            {
+              "name": "Farrah Campbell",
+              "link": "/speakers/farrah"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "12:00",
+          "name": "Talk",
+          "title": "",
+          "type": "talk"
+        },
+        {
+          "time": "12:30",
+          "name": "Talk",
+          "title": "Observability across serverless asynchronous managed services",
+          "abstract": "Serverless computing transactions are a combination of owned code (like AWS Lambda) and managed services (Like SNS, SQS, EventBridge, DynamoDB and more). Applying distributed tracing on your own code through instrumentation is relatively simple (though require a lot of work). The challenge lays with the managed service, how to trace a full transaction across services like queues, streams, and databases.",
+          "speaker": [
+            {
+              "name": "Aviad Mor",
+              "link": "/speakers/aviad"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "13:00",
+          "name": "Lunch",
+          "type": "break"
+        },
+        {
+          "time": "14:00",
+          "name": "Lightning Talk",
+          "title": "Serverless Slack Bots with Azure Durable Functions",
+          "abstract": "Hear about how we built a sophisticated and user configurable Slack Bot which gives customized trade reports to financial analysts using Serverless technologies on Azure. Learn the patterns we used and the architectural decisions we made from an experienced Serverless Enterprise developer and author.",
+          "speaker": [
+            {
+              "name": "Daniel Bass",
+              "link": "/speakers/daniel"
+            }
+          ],
+          "type": "lightning"
+        },
+        {
+          "time": "14:15",
+          "name": "Lightning Talk",
+          "title": "Using Serverless to help Generation Rent",
+          "abstract": "Many renters find it difficult to get on the housing ladder and local start-up TenantFootprint aims to help solve this.  Hear about how Serverless technology has been used to bridge the gap between boostrap and scale up.",
+          "speaker": [
+            {
+              "name": "Siobhan Stephens",
+              "link": "/speakers/siobhan"
+            }
+          ],
+          "type": "lightning"
+        },
+        {
+          "time": "14:30",
+          "name": "Lightning Talk",
+          "title": "Identifying Drivers of Poverty with Lambda and Fargate",
+          "abstract": "Wouldn't it be nice if government policy could be turned into a computational model? Policy In Practice has done just that to help people understand what benefits they can claim and help councils support the most at risk from poverty and hardship. As the service grows in popularity, manual processes behind the scenes soon expand to fill the team's time and it's time to automate. Using Lambda and Fargate, Policy in Practice is transforming operations into an event-driven data pipeline.",
+          "speaker": [
+            {
+              "name": "David Carboni",
+              "link": "/speakers/david"
+            }
+          ],
+          "type": "lightning"
+        },
+        {
+          "time": "14:45",
+          "name": "Lightning Talk",
+          "title": "Imposter Syndrome as a Techie",
+          "abstract": "50% of employees experience imposter syndrome in their career, this rises to nearly 70% in the tech industry. I want to talk you through my own experience as a Woman in Tech and give some tips on what has helped me push myself when that Imposter Goblin won’t stop talking when you want to work.",
+          "speaker": [
+            {
+              "name": "Beth North",
+              "link": "/speakers/beth"
+            }
+          ],
+          "type": "lightning"
+        },
+        {
+          "time": "15:00",
+          "name": "Break",
+          "type": "break"
+        },
+        {
+          "time": "15:30",
+          "name": "Talk",
+          "title": "Building Resilient Serverless Systems with “Non-Serverless” Components",
+          "abstract": "Serverless functions have the ability to scale almost infinitely. While great for compute, it can be a MAJOR PROBLEM for other downstream resources. In this talk, we’ll discuss strategies and patterns to create highly resilient serverless apps that mitigate pressure on “non-serverless” systems.",
+          "speaker": [
+            {
+              "name": "Jeremy Daly",
+              "link": "/speakers/jeremy"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "16:00",
+          "name": "Talk",
+          "title": "Failure modes in serverless services",
+          "abstract": "In DAZN, we often rely on AWS serverless services to build a global platform that needs to be highly scalable and highly available. Serverless computing allows developers to focus on the business logic implementation rather than cluster provisioning, maintenance of operative systems and containers orchestration. It also comes with great fault tolerance and reliability. How many times have you heard the phrase: 'You don't need to worry about it, AWS takes care of that for you'. While this is certainly true in some scenarios, it's not always the case. I will go through some examples of not so obvious failure modes of serverless services in AWS, and how to mitigate them, from a backend engineer perspective.",
+          "speaker": [
+            {
+              "name": "Sara Gerion",
+              "link": "/speakers/sara"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "16:30",
+          "name": "Talk",
+          "title": "What Can You Do with Serverless ...in 2020?",
+          "abstract": "Serverless is always evolving (faster than any definition) and each year new capabilities simplify existing workloads and enable new applications to be implemented in an easier, more efficient way. At AWS, we have focused on improving observability, configuration management, functions invocations, service integrations, and execution environments. Looking at some of the more recent updates, this session is introducing the reasoning behind the new features, and how to use them to reduce your architecture complexity, including real world examples of what AWS customers are doing, so that you can focus on creating value for YOUR customers.",
+          "speaker": [
+            {
+              "name": "Danilo Poccia",
+              "link": "/speakers/danilo"
+            }
+          ],
+          "type": "keynote"
+        },
+        {
+          "time": "17:00",
+          "name": "Closing Remarks",
+          "speaker": [
+            {
+              "name": "ServerlessDays Team"
+            }
+          ],
+          "type": "talk"
+        },
+        {
+          "time": "17:15",
+          "name": "Networking and Drinks - the venue will stay open till 22:00",
+          "type": "break"
+        }
+  
+    ]
+}

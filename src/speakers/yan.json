@@ -1,0 +1,32 @@
+{
+  "layout": "speaker.njk",
+  "page": {
+      "title": "ServerlessDays Cardiff - Yan Cui",
+      "description": "Refactoring a monolith to serverless can be intimidating, but there are discrete steps that you can take to simplify the process. In this talk, AWS Serverless Hero Yan Cui outlines 8 steps to successfully refactor your monolith and highlight key decision points such as language and tooling choices.",
+      "url": "https://cardiff.serverlessdays.io/speakers/yan",
+      "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577199193/yan-cui_jfftlm.png"
+  },
+  "speaker": {
+      "name": "Yan Cui",
+      "title": "Developer Advocate at Lumigo and AWS Serverless Hero",
+      "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577199193/yan-cui_jfftlm.png",
+      "bio": "Yan is an experienced engineer who has run production workload at scale in AWS for 10 years. He has been an architect and principal engineer with a variety of industries ranging from banking, e-commerce, sports streaming to mobile gaming. He has worked extensively with AWS Lambda in production, and has been helping companies around the world adopt AWS and serverless as a consultant. Yan is an AWS Serverless Hero and a regular speaker at user groups and conferences internationally, and he is also the author of Production-Ready Serverless by Manning and keeps an active blog at https://theburningmonk.com.",
+      "talk": {
+          "title": "How to refactor a monolith to serverless in 8 steps",
+          "abstract" : "Refactoring a monolith to serverless can be intimidating, but there are discrete steps that you can take to simplify the process. In this talk, AWS Serverless Hero Yan Cui outlines 8 steps to successfully refactor your monolith and highlight key decision points such as language and tooling choices."
+      },
+      "social": [
+          {
+              "name": "Twitter",
+              "link": "https://twitter.com/theburningmonk",
+              "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+          }
+      ],
+      "links": [
+          {
+              "text": "",
+              "link": ""
+          }
+      ]
+  }
+}
