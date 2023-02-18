@@ -4,7 +4,7 @@
         "title": "ServerlessDays Cardiff - Home",
         "description": "One Day. One Track. One Community",
         "url": "https://cardiff.serverlessdays.io",
-        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card_fg794k.jpg"
     },
     "eventDetails": {
         "name": "Cardiff",
@@ -34,7 +34,7 @@
       ]
     },
     "speakers": {
-        "text": "We are excited to bring fantastic speakers on a range of topics. We will shortly open a call for papers.",
+        "text": "We are excited to bring a number of incredible speakers to Cardiff to share their stories on a range of topics. We will shortly open a call for papers, where we are looking for real life stories of how organisations have adopted serverless, the benefits they have seen, what worked and what didn’t work well and what they expect looking to the future. We hope to announce speakers following the call for papers covering a variety of areas on different cloud providers.",
         "lineup": [
       ]
     },
