@@ -19,6 +19,12 @@
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
+        },
+        {
+            "key": "papers",
+            "path": "https://www.papercall.io/serverlessdayscwl2023",
+            "name": "Call for Papers",
+            "cta": "true"
         }
     ]
 }
