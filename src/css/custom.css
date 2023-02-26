@@ -71,3 +71,26 @@
     .w-05-m { width: 5% }
     .shadow-6-m { box-shadow: 0px 0px 24px 24px rgba(0, 0, 0, 0.2); }
 }
+
+
+.dates {
+    text-align: left;
+    border-radius: 5px;
+    padding: 10px;
+}
+.dates .dates__date {
+    font-style: italic;
+    color: #08B9A7;
+    padding-left: 24px;
+}
+.dates .dates__title {
+    color: #3A4072;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding-left: 24px;
+}
+.dates img {
+    width: 20px;
+    height: auto;
+    float: left;
+}
