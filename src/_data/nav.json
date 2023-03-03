@@ -26,6 +26,12 @@
             "path": "https://www.papercall.io/serverlessdayscwl2023",
             "name": "Call for Papers",
             "cta": "true"
+        },
+        {
+            "key": "tickets",
+            "path": "/tickets",
+            "name": "Tickets",
+            "cta": "true"
         }
     ]
 }

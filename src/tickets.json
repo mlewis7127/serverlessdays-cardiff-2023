@@ -8,30 +8,21 @@
     },
     "tickets": [
         {
-            "title": "Standard Ticket",
+            "title": "Early Bird Ticket",
             "description": "Standard Admission",
-            "price": "£30",
+            "price": "£25",
             "cta": {            
-                "path": "#",
-                "name": "Expired"
+                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2023",
+                "name": "Buy"
             }
         },
         {
-            "title": "Standard + Sponsor Ticket",
+            "title": "Early Bird + Sponsor Ticket",
             "description": "Standard Admission for you and sponsor a ticket for someone else",
-            "price": "£60",
+            "price": "£50",
             "cta": {            
-                "path": "#",
-                "name": "Expired"
-            }
-        },
-        {
-            "title": "Scholarship",
-            "description": "Scholarship ticket - we have joined up with local groups",
-            "price": "£0",
-            "cta": {            
-                "path": "",
-                "name": "Expired"
+                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2023",
+                "name": "Buy"
             }
         }
     ]
