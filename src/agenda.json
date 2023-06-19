@@ -32,7 +32,7 @@
         "title": "Future of EDA on AWS",
         "speaker": [
           {
-            "name": "Usman Khalid",
+            "name": "Usman Khalid - GM and Director of Events and Workflows, AWS",
             "link": "/speakers/usman"
           }
         ],
@@ -44,7 +44,7 @@
         "title": "Building Serverlesspresso: Creating event-driven architectures",
         "speaker": [
           {
-            "name": "Julian Wood",
+            "name": "Julian Wood - Principal Developer Advocate for Serverless, AWS",
             "link": "/speakers/julian"
           }
         ],
@@ -61,7 +61,7 @@
         "title": "The Serverless Behind LEGO.com",
         "speaker": [
           {
-            "name": "Sarah Hamilton",
+            "name": "Sarah Hamilton - Software Engineer, LEGO Group",
             "link": "/speakers/sarah"
           }
         ],
@@ -73,7 +73,7 @@
         "title": "Azure OpenAI vs OpenAI",
         "speaker": [
           {
-            "name": "Anna-Maria Wykes",
+            "name": "Anna-Maria Wykes - Principal Consultant, Advancing Analytics",
             "link": "/speakers/anna-maria"
           }
         ],
@@ -85,7 +85,7 @@
         "title": "The State of Security with Serverless",
         "speaker": [
           {
-            "name": "NCSC",
+            "name": "Principal security researcher, NCSC",
             "link": "/speakers/ncsc"
           }
         ],
@@ -102,7 +102,7 @@
         "title": "Growing as a serverless engineer in an enterprise",
         "speaker": [
           {
-            "name": "Andreea Merariu",
+            "name": "Andreea Merariu - Software Engineer, Lego Group",
             "link": "/speakers/andreea"
           }
         ],
@@ -114,7 +114,7 @@
         "title": "The long road to serverless maturity",
         "speaker": [
           {
-            "name": "Tom Collins",
+            "name": "Tom Collins - Principal Software Engineer, DVLA",
             "link": "/speakers/tom"
           }
         ],
@@ -126,7 +126,7 @@
         "title": "Open standards for building event-driven serverless applications in the cloud",
         "speaker": [
           {
-            "name": "Mete Atamel",
+            "name": "Mete Atamel - Developer Advocate, Google",
             "link": "/speakers/mete"
           }
         ],
@@ -143,11 +143,11 @@
         "title": "The Evolution of BBC Online",
         "speaker": [
           {
-            "name": "Matthew Jones",
+            "name": "Matthew Jones - Engineering Manager, BBC",
             "link": "/speakers/matthew"
           },
           {
-            "name": "Craig Jones",
+            "name": "Craig Jones - Lead Technical Architect, BBC",
             "link": "/speakers/craig"
           }
         ],
@@ -159,7 +159,7 @@
         "title": "Serverless Sustainability",
         "speaker": [
           {
-            "name": "Daniel Bass",
+            "name": "Daniel Bass - CTO and Co-Founder, Zeti",
             "link": "/speakers/daniel"
           }
         ],
@@ -171,11 +171,11 @@
         "title": "Serverless Adoption Essentials",
         "speaker": [
           {
-            "name": "Ben Ellerby",
+            "name": "Ben Ellerby - Founder, aleios",
             "link": "/speakers/ben"
           },
           {
-            "name": "Sheen Brisals",
+            "name": "Sheen Brisals - Senior Engineering Manager, LEGO Group",
             "link": "/speakers/sheen"
           }
         ],
