@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Ben Ellerby",
+        "description": "Ben Ellerby is an AWS Serverless Hero, the founder of aleios and a dedicated member of the Serverless community. He is the editor of Serverless Transformation, co-organizes the Serverless User Group in London and regularly speaks about Serverless around the world. At aleios, Ben helps organisations of all sizes adopt Serverless.",
+        "url": "https://cardiff.serverlessdays.io/speakers/usman",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687036134/ben_k7pnfb.jpg"
+    },
+    "speaker": {
+        "name": "Ben Ellerby",
+        "title": "Founder of aleios",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687036134/ben_k7pnfb.jpg",
+        "bio": "Ben Ellerby is an AWS Serverless Hero, the Founder of aleios and a dedicated member of the Serverless community. He is the editor of Serverless Transformation, co-organizes the Serverless User Group in London and regularly speaks about Serverless around the world. At aleios, Ben helps organisations of all sizes adopt Serverless.",
+        "talk": {
+            "title": "Serverless Adoption Essentials",
+            "abstract" : "As more and more larger companies adopt the benefits of a Serverless-First approach the appetite to follow has grown. Adopting Serverless within large scale organisations is not a simple task, but it’s not the technology that’s slowing things down, it’s the organisational challenge. In this talk I walk back on the journey I’ve taken several enterprises on in their adoption of Serverless. Showing the challenges, the wins and the losses, and overall a shared socio-technical framework to set your journey up for success, “The Serverless Staircase” \n\r  Don’t focus on the technology alone and wait for the rest to come with you, it’s a people challenge as much as a technical one."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "http://twitter.com/EllerbyBen",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

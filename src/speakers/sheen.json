@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Sheen Brisals",
+        "description": "Sheen is an AWS Serverless Hero. In his current role at The LEGO Group, Sheen guides engineering teams to architect and build serverless solutions. Sheen has held several positions at leading software organizations over his long career. He is very passionate about serverless and loves sharing knowledge with the community. He talks about serverless at conferences around the world.",
+        "url": "https://cardiff.serverlessdays.io/speakers/sheen",
+        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576097520/speakers/sheen_udeprz.jpg"
+    },
+    "speaker": {
+        "name": "Sheen Brisals",
+        "title": "Senior Engineering Manager at the LEGO Group",
+        "img": "https://res.cloudinary.com/dsctrdkro/image/upload/v1576097520/speakers/sheen_udeprz.jpg",
+        "bio": "Sheen is an AWS Serverless Hero. In his current role at The LEGO Group, Sheen guides engineering teams to architect and build serverless solutions. Sheen has held several positions at leading software organizations over his long career. He is very passionate about serverless and loves sharing knowledge with the community. He talks about serverless at conferences around the world.",
+        "talk": {
+            "title": "Serverless Adoption Essentials",
+            "abstract" : "There is a perception in the industry that serverless-first is the initial thought process toward serverless adoption in an organization. Though it is one of the essentials and works well with start-ups and small-scale organizations, enterprises with several business areas and engineering teams need to rethink and understand a few other essentials before jumping head-first into serverless. What are these essentials, and how do they help make your serverless adoption a success?"
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "http://twitter.com/sheenbrisals",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

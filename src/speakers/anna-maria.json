@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Anna-Maria Wykes",
+        "description": "Anna is a veteran software & data engineer and a Microsoft Data Platform MVP, with over 17 years of experience. She is a senior consultant with Advancing Analytics, helping shape & evolve their data engineering practice. Anna has a real passion for data and strives to bring the worlds of Software Development and Data Science closer together. Other areas of interest include UX, Agile methodologies, and helping to organize/run local Code Clubs.",
+        "url": "https://cardiff.serverlessdays.io/speakers/anna-maria",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951459/Anna-Maria-Wykes_z5v5rw.png"
+    },
+    "speaker": {
+        "name": "Anna-Maria Wykes",
+        "title": "Principal Consultant at Advancing Analytics and Microsoft MVP",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951459/Anna-Maria-Wykes_z5v5rw.png",
+        "bio": "Anna is a veteran software & data engineer and a Microsoft Data Platform MVP, with over 17 years of experience. She is a senior consultant with Advancing Analytics, helping shape & evolve their data engineering practice. Anna has a real passion for data and strives to bring the worlds of Software Development and Data Science closer together. Other areas of interest include UX, Agile methodologies, and helping to organize/run local Code Clubs.",
+        "talk": {
+            "title": "Azure OpenAI vs OpenAI",
+            "abstract" : "Two prominent players in the AI landscape are Azure OpenAI and OpenAI. While both platforms share the goal of democratizing AI and making it accessible to a broader audience, they differ in their approaches, features, and offerings. From natural language understanding to content generation, chatbots, and virtual assistants, we will explore how these platforms are empowering developers and businesses to build intelligent, AI-driven solutions."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/A_Usman_Khalid",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

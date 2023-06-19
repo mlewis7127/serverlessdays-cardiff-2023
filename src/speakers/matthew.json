@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Matthew Jones",
+        "description": "Matthew has over 15 years experience in software engineering, having worked for and run digital agencies before moving to the BBC in 2017, where he is now Engineering Manager for News & Sport. Over the last few years Matthew has been leading BBC News teams through the transition to AWS, working closely with platform teams to enable a zero-downtime rollout of ~1 million News articles, hundreds of News Indexes and thousands of web pages across the BBCs digital estate. Matthew believes in building high performing and empowered teams, while ensuring that they are aligned with a clear architectural vision. He is also passionate about building a world class engineering team in Cardiff and enjoys the outdoors and a gig or two in his spare time.",
+        "url": "https://cardiff.serverlessdays.io/speakers/matthew",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035406/mj2_r11klx.jpg"
+    },
+    "speaker": {
+        "name": "Matthew Jones",
+        "title": "Engineering Manager, BBC",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035406/mj2_r11klx.jpg",
+        "bio": "Matthew has over 15 years experience in software engineering, having worked for and run digital agencies before moving to the BBC in 2017, where he is now Engineering Manager for News & Sport. Over the last few years Matthew has been leading BBC News teams through the transition to AWS, working closely with platform teams to enable a zero-downtime rollout of ~1 million News articles, hundreds of News Indexes and thousands of web pages across the BBCs digital estate. Matthew believes in building high performing and empowered teams, while ensuring that they are aligned with a clear architectural vision. He is also passionate about building a world class engineering team in Cardiff and enjoys the outdoors and a gig or two in his spare time.",
+        "talk": {
+            "title": "The Evolution of BBC Online",
+            "abstract" : "The technical stacks that power the BBCs websites and apps are in constant evolution, and following a move to the cloud and microservices prior to 2020, the next evolution has been to make significant use of serverless technologies, particularly AWS Lambda, which is becoming our dominant form of compute. \n\r  In this talk, join Matt and Craig (Engineering Manager and Lead Tech Architect) where they will discuss how, where, and why the BBC is using serverless so heavily, what has changed, what was learned, and how (they think) this will progress in the future."
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

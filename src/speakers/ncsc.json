@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - NCSC",
+        "description": "The National Cyber Security Centre (NCSC) has a mission to make the UK the safest place to live and work online. The NCSC is helping to secure the connected technology that makes a sustainable future possible. The NCSC provides a single point of contact for SMEs, larger organisations, government agencies, the general public and departments. We also work collaboratively with other law enforcement, defence, the UK’s intelligence and security agencies and international partners.",
+        "url": "https://cardiff.serverlessdays.io/speakers/ncsc",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687018414/NCSC-logo_lrax3j.png"
+    },
+    "speaker": {
+        "name": "NCSC",
+        "title": "Principal security researcher, NCSC",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687018414/NCSC-logo_lrax3j.png",
+        "bio": "The National Cyber Security Centre (NCSC) has a mission to make the UK the safest place to live and work online. The NCSC is helping to secure the connected technology that makes a sustainable future possible. The NCSC provides a single point of contact for SMEs, larger organisations, government agencies, the general public and departments. We also work collaboratively with other law enforcement, defence, the UK’s intelligence and security agencies and international partners.",
+        "talk": {
+            "title": "The State of Security with Serverless",
+            "abstract" : "The National Cyber Security Centre (NCSC) has researched the security properties of serverless components in the public cloud to identify the impact serverless has on security. This research has found its way into the recently updated cloud security guidance. This talk dives into the security benefits associated with serverless, calling out various important properties that must be considered when designing or adopting serverless, and highlighting aspects that require greater consideration."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/NCSC",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

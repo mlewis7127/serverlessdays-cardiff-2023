@@ -12,39 +12,189 @@
           "type": "date"
       },
       {
-          "time": "08:00",
-          "name": "Doors Open",
-          "type": "break"
+        "time": "08:00",
+        "name": "Doors Open",
+        "type": "break"
       },
       {
-          "time": "09:15",
-          "name": "Welcome Remarks",
-          "speaker": [
-              {
-                  "name": "ServerlessDays Team"
-              }
-          ],
-          "type": "talk"
+        "time": "09:15",
+        "name": "Welcome Remarks",
+        "speaker": [
+          {
+            "name": "ServerlessDays Team"
+          }
+        ],
+        "type": "talk"
       },
       {
-          "time": "09.30",
-          "name": "Agenda coming soon",
-          "type": "break"
+        "time": "09:30",
+        "name": "Keynote",
+        "title": "Future of EDA on AWS",
+        "speaker": [
+          {
+            "name": "Usman Khalid",
+            "link": "/speakers/usman"
+          }
+        ],
+        "type": "keynote"
       },
       {
-          "time": "17.15",
-          "name": "Closing Remarks",
-          "speaker": [
-              {
-                  "name": "ServerlessDays Team"
-              }
-          ],
-          "type": "talk"
+        "time": "10:20",
+        "name": "Talk",
+        "title": "Building Serverlesspresso: Creating event-driven architectures",
+        "speaker": [
+          {
+            "name": "Julian Wood",
+            "link": "/speakers/julian"
+          }
+        ],
+        "type": "talk"
       },
       {
-          "time": "17:30",
-          "name": "Networking and Drinks",
-          "type": "break"
+        "time": "10:50",
+        "name": "Break",
+        "type": "break"
+      },
+      {
+        "time": "11:20",
+        "name": "Talk",
+        "title": "The Serverless Behind LEGO.com",
+        "speaker": [
+          {
+            "name": "Sarah Hamilton",
+            "link": "/speakers/sarah"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "11:55",
+        "name": "Lightning Talk",
+        "title": "Azure OpenAI vs OpenAI",
+        "speaker": [
+          {
+            "name": "Anna-Maria Wykes",
+            "link": "/speakers/anna-maria"
+          }
+        ],
+        "type": "lightning"
+      },
+      {
+        "time": "12:10",
+        "name": "Lightning Talk",
+        "title": "The State of Security with Serverless",
+        "speaker": [
+          {
+            "name": "NCSC",
+            "link": "/speakers/ncsc"
+          }
+        ],
+        "type": "lightning"
+      },
+      {
+        "time": "12:30",
+        "name": "Lunch",
+        "type": "break"
+      },
+      {
+        "time": "13:30",
+        "name": "Lightning Talk",
+        "title": "Growing as a serverless engineer in an enterprise",
+        "speaker": [
+          {
+            "name": "Andreea Merariu",
+            "link": "/speakers/andreea"
+          }
+        ],
+        "type": "lightning"
+      },
+      {
+        "time": "13:45",
+        "name": "Talk",
+        "title": "The long road to serverless maturity",
+        "speaker": [
+          {
+            "name": "Tom Collins",
+            "link": "/speakers/tom"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "14:20",
+        "name": "Talk",
+        "title": "Open standards for building event-driven serverless applications in the cloud",
+        "speaker": [
+          {
+            "name": "Mete Atamel",
+            "link": "/speakers/mete"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "14:50",
+        "name": "Break",
+        "type": "break"
+      },
+      {
+        "time": "15:20",
+        "name": "Talk",
+        "title": "The Evolution of BBC Online",
+        "speaker": [
+          {
+            "name": "Matthew Jones",
+            "link": "/speakers/matthew"
+          },
+          {
+            "name": "Craig Jones",
+            "link": "/speakers/craig"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "15:55",
+        "name": "Talk",
+        "title": "Serverless Sustainability",
+        "speaker": [
+          {
+            "name": "Daniel Bass",
+            "link": "/speakers/daniel"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "16:30",
+        "name": "Keynote",
+        "title": "Serverless Adoption Essentials",
+        "speaker": [
+          {
+            "name": "Ben Ellerby",
+            "link": "/speakers/ben"
+          },
+          {
+            "name": "Sheen Brisals",
+            "link": "/speakers/sheen"
+          }
+        ],
+        "type": "keynote"
+      },
+      {
+        "time": "17:20",
+        "name": "Closing Remarks",
+        "speaker": [
+          {
+            "name": "ServerlessDays Team"
+          }
+        ],
+        "type": "talk"
+      },
+      {
+        "time": "17:30",
+        "name": "Networking and Drinks - the venue will stay open till 22:00",
+        "type": "break"
       }
     ]
 }

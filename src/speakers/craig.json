@@ -1,0 +1,27 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Craig Jones",
+        "description": "Craig is a Lead Technical Architect at the BBC and works with engineering teams that build the platforms that power the BBCs online products, empowering other teams to create excellent and highly available products across Web, App, and more. Prior to being an Architect, Craig has over a decade of experience as a software engineer, most recently as Senior Principal Engineer for BBC News, leading cloud migration efforts and pioneering initial adoption of serverless technologies. Craig is passionate about empowering engineering teams and autonomy, and he’s interested in evolutionary system design, amateur gardening, and the (occasional) bike ride.",
+        "url": "https://cardiff.serverlessdays.io/speakers/craig",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035234/CraigJonesBBC_ltagr9.jpg"
+    },
+    "speaker": {
+        "name": "Craig Jones",
+        "title": "Lead Technical Architect, BBC",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687035234/CraigJonesBBC_ltagr9.jpg",
+        "bio": "Craig is a Lead Technical Architect at the BBC and works with engineering teams that build the platforms that power the BBCs online products, empowering other teams to create excellent and highly available products across Web, App, and more. Prior to being an Architect, Craig has over a decade of experience as a software engineer, most recently as Senior Principal Engineer for BBC News, leading cloud migration efforts and pioneering initial adoption of serverless technologies. Craig is passionate about empowering engineering teams and autonomy, and he’s interested in evolutionary system design, amateur gardening, and the (occasional) bike ride.",
+        "talk": {
+            "title": "The Evolution of BBC Online",
+            "abstract" : "The technical stacks that power the BBCs websites and apps are in constant evolution, and following a move to the cloud and microservices prior to 2020, the next evolution has been to make significant use of serverless technologies, particularly AWS Lambda, which is becoming our dominant form of compute. \n\r  In this talk, join Matt and Craig (Engineering Manager and Lead Tech Architect) where they will discuss how, where, and why the BBC is using serverless so heavily, what has changed, what was learned, and how (they think) this will progress in the future."
+        },
+        "social": [
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Daniel Bass",
+        "description": "Daniel is the CTO and Co-Founder of Zeti and the author of 2 books on Serverless - “Beginning Advanced Serverless Architectures with Microsoft Azure”. He loves travelling around the world and learning to cook vegetarian dishes from different cuisines",
+        "url": "https://cardiff.serverlessdays.io/speakers/daniel",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577876281/daniel-bass_v6rfrv.jpg"
+    },
+    "speaker": {
+        "name": "Daniel Bass",
+        "title": "CTO and Co-Founder of Zeti",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1577876281/daniel-bass_v6rfrv.jpg",
+        "bio": "Daniel is the CTO and Co-Founder of Zeti and the author of 2 books on Serverless - “Beginning Advanced Serverless Architectures with Microsoft Azure”. He loves travelling around the world and learning to cook vegetarian dishes from different cuisines",
+        "talk": {
+            "title": "Serverless Sustainability",
+            "abstract" : "Sustainability is, rightfully, a key thing that everyone is thinking about at the moment. Energy efficiency is one of the best first steps to take - energy that isn’t being used at all is less harmful than creating more zero emission generation capacity to cover wasted energy. As app developers, or at a wider scale as architects, we can have massive impacts on the amount of carbon our apps emit through our architectural choices. As apps we develop can then end up being too expensive to rearchitect, these decisions can be locked in for many years, burning substantial amounts of fossil fuels to provide the electricity for them. \n\r  At my startup, we’ve focused on Sustainability by building the worlds first pay-per-mile finance system, exclusively for zero-emission capable vehicles. This system is serverless from end to end, and it inherently encourages sustainable outcomes through its work and tracking of real-time emissions savings from those vehicles. This is all hosted on Microsoft Azure, using Azure Static Web Apps, Azure Functions and Azure Cosmos DB amongst other serverless services. \n\r  I’ll talk you through how to evaluate how ‘Serverless’ a service is, and how to architect things so that they all scale to your users loads precisely, leading to less waste. Then we’ll explore how serverless pays you to do energy efficiency work - by improving the efficiency of your code you reduce your cloud bill and reduce your carbon footprint at the same time. I’ll use my own experience to show how you can build a very efficient application end to end that not only scales with your users, but is secure enough to transfer millions of pounds - whilst also discussing where the virtually infinite scalability can bite you when it gets carried away! \n\r  Then we’ll look at the wider sustainability story for serverless. If an app takes less time to build and takes fewer people to run, then does that also reduce the emissions of the app? Does the cloud provider matter? And are there things developers can do to influence the users of the application to make better sustainable choices?"
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/danbassdev",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

@@ -6,6 +6,16 @@
             "name": "News"
         },
         {
+            "key": "speakers",
+            "path": "/speakers",
+            "name": "Speakers"
+        },
+        {
+            "key": "agenda",
+            "path": "/agenda",
+            "name": "Agenda"
+        },
+        {
             "key": "workshops",
             "path": "/workshops",
             "name": "Workshops"
@@ -19,12 +29,6 @@
             "key": "sponsors",
             "path": "/static/ServerlessDays-Cardiff-Sponsor-Prospectus.pdf",
             "name": "Sponsors",
-            "cta": "true"
-        },
-        {
-            "key": "papers",
-            "path": "https://www.papercall.io/serverlessdayscwl2023",
-            "name": "Call for Papers",
             "cta": "true"
         },
         {

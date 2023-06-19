@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Sarah Hamilton",
+        "description": "Sarah Hamilton is a software engineer and AWS Community Builder who works at The LEGO Group. She is a fervent supporter of Serverless technology and takes great pride in contributing to the entire process, from designing Serverless architectures to building and deploying them. Sarah finds particular joy in collaborating with her team to develop efficient solutions that deliver customer value. When she’s not coding, Sarah likes to explore new technologies, practice yoga, and chat about feline friends.",
+        "url": "https://cardiff.serverlessdays.io/speakers/sarah",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951145/sarah_hamilton_jsqyzu.jpg"
+    },
+    "speaker": {
+        "name": "Sarah Hamilton",
+        "title": "Software Engineer at the LEGO Group",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686951145/sarah_hamilton_jsqyzu.jpg",
+        "bio": "Sarah Hamilton is a software engineer and AWS Community Builder who works at The LEGO Group. She is a fervent supporter of Serverless technology and takes great pride in contributing to the entire process, from designing Serverless architectures to building and deploying them. Sarah finds particular joy in collaborating with her team to develop efficient solutions that deliver customer value. When she’s not coding, Sarah likes to explore new technologies, practice yoga, and chat about feline friends.",
+        "talk": {
+            "title": "The Serverless Behind LEGO.com",
+            "abstract" : "Have you ever wondered how an international e-commerce platform scales to millions of users? How spikes in traffic are handled and operating costs remain low? Serverless is key to the LEGO.com architecture, allowing developers to build efficiently and ensuring that operational requirements are met."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/serverlesssarah",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

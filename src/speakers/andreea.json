@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Andreea Merariu",
+        "description": "Andreea is a Software Engineer at The Lego Group with a few years of experience in the industry. She has a passion for backend technologies but even more so for all things serverless. At the LEGO Group, she is designing and developing serverless applications on AWS. She is keen to engage with the community and constantly seeks new learning opportunities. Andreea is eager to share her journey into serverless and the interesting technical challenges she encounters along the way.",
+        "url": "https://cardiff.serverlessdays.io/speakers/andreea",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024157/AndreeaMerariu_konxcd.jpg"
+    },
+    "speaker": {
+        "name": "Andreea Merariu",
+        "title": "Software Engineer at The Lego Group",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024157/AndreeaMerariu_konxcd.jpg",
+        "bio": "Andreea is a Software Engineer at The Lego Group with a few years of experience in the industry. She has a passion for backend technologies but even more so for all things serverless. At the LEGO Group, she is designing and developing serverless applications on AWS. She is keen to engage with the community and constantly seeks new learning opportunities. Andreea is eager to share her journey into serverless and the interesting technical challenges she encounters along the way.",
+        "talk": {
+            "title": "Growing as a serverless engineer in an enterprise",
+            "abstract" : "Have you ever wondered what an engineer’s serverless journey would look like? What about the challenges encountered? Starting a serverless journey can be very rewarding and challenging every day - growing, changing the mindset, thinking outside the box, and continuing to learn. Doesn’t this sound exciting? \n\r  In this talk, I will share my steps to gain serverless experience and my motivation behind choosing serverless as the primary focus area. I will also showcase the importance of community support and how working for an enterprise facilitates my growth. To demonstrate the above, I will go through one of my first serverless tasks. I will discuss how I leveraged AWS services to accomplish it and leave you with the lessons I learned and my secrets for the future!"
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "http://twitter.com/andreea_merariu",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

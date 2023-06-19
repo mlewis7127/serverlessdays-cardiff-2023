@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Tom Collins",
+        "description": "Tom Collins is a principal software engineer who has worked in application development for over 20 years. He has been an early adopter of cloud and serverless having used it at multiple organisations including the BBC and the DVLA.",
+        "url": "https://cardiff.serverlessdays.io/speakers/tom",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024621/TomCollins_cuhpak.jpg"
+    },
+    "speaker": {
+        "name": "Tom Collins",
+        "title": "Principal Software Engineer, DVLA",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1687024621/TomCollins_cuhpak.jpg",
+        "bio": "Tom Collins is a principal software engineer who has worked in application development for over 20 years. He has been an early adopter of cloud and serverless having used it at multiple organisations including the BBC and the DVLA.",
+        "talk": {
+            "title": "The long road to serverless maturity",
+            "abstract" : "In today’s modern enterprise application landscape we need to find a balance between keeping pace with cloud provider innovation and building secure and resilient services. If you throw developer experience into the mix, and start to think about developer motivation and keeping the tech fun and up-to-date it can be a real challenge to find the sweet spot. \n\r  At the Driver and Vehicle Licensing Agency (DVLA) we build digital services for 49 million customers, maintaining the UK’s national registers of drivers and vehicles. This can get quite serious and we really care about keeping our data secure. Doing this in a serverless and cloud first world is not without its challenges. \n\r  We employ a lot of engineers and need to make a positive environment in which they are motivated, challenged, can learn new things and ultimately want to stick around. Using serverless technologies, and adopting new ideas, services and innovations plays a big role in this. \n\r  After several years we’ve been through multiple iterations of our approach, enhancing our tools, libraries, patterns and serverless community. This talk will give an overview of some of the challenges we’ve overcome, where we started Vs where we are today and the best practices we’ve put in place to support this."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "http://twitter.com/tomcollinsuk",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }

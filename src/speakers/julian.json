@@ -1,0 +1,32 @@
+{
+    "layout": "speaker.njk",
+    "page": {
+        "title": "ServerlessDays Cardiff - Julian Wood",
+        "description": "Principal Developer Advocate for AWS Serverless.",
+        "url": "https://cardiff.serverlessdays.io/speakers/julian",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg"
+    },
+    "speaker": {
+        "name": "Julian Wood",
+        "title": "Principal Developer Advocate for AWS Serverless",
+        "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1686944514/julian-wood_nx8uyy.jpg",
+        "bio": "Julian is a Principal Developer Advocate for AWS Serverless. He works within the serverless product teams at AWS to help people use and love serverless more. He also acts as the internal voice of developers and builders to help make AWS serverless the best place to run applications",
+        "talk": {
+            "title": "Building Serverlesspresso: Creating event-driven architectures",
+            "abstract" : "Serverlesspresso is an event-driven, serverless workload that uses Amazon EventBridge and AWS Step Functions to coordinate events across microservices and support thousands of orders per day. \n\r  This session explores the design decisions made in building this application, how new features influenced the development process, and lessons learned in creating a production-ready application using this approach. Explore useful patterns and options for extensibility that helped the team design a robust, scalable solution that costs about 1 dollar a day to operate. \n\r  This session includes examples you can apply to your serverless applications and teaches you how to combine EventBridge and Step Functions to solve complex architectural challenges in larger applications."
+        },
+        "social": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/julian_wood",
+                "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+            }
+        ],
+        "links": [
+            {
+                "text": "",
+                "link": ""
+            }
+        ]
+    }
+  }
