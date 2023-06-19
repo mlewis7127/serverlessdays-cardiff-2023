@@ -8,6 +8,15 @@
     },
     "tickets": [
         {
+            "title": "Early Bird Ticket",
+            "description": "Standard Admission",
+            "price": "£25",
+            "cta": {            
+                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2023",
+                "name": "Expired"
+            }
+        },
+        {
             "title": "Standard Ticket",
             "description": "Standard Admission",
             "price": "£35",
