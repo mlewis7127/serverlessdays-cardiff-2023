@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "Build your first cloud native website with static web apps and serverless APIs",
+        "description": "In this workshop, we'll guide you through a hands-on lab building a website, it's data tier, and the connections between the two.",
+        "url": "https://cardiff.serverlessdays.io/workshops/microsoft",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "layout": "post.njk",
+    "page": {
+        "title": "Serverlesspresso: Build an event-driven application from the ground up",
+        "description": "Discover how to build a complete coffee-ordering serverless web application using services such as AWS Step Functions and Amazon EventBridge and more.",
+        "url": "https://cardiff.serverlessdays.io/workshops/espresso",
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
+    }
+}

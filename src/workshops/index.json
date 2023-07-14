@@ -2,10 +2,57 @@
     "layout": "workshops.njk",
     "page": {
         "title": "ServerlessDays Cardiff - Workshops",
-        "description": "We are hoping to run a number of hands-on workshops the day before the main conference. Access will be available to those who have a conference ticket. The intention is to give people experience building serverless applications supported by experts. If you or your organisation are interested in running a workshop, please get in touch at cardiff@serverlessdays.io",
+        "description": "Enhance your Serverless Knowledge by attending a workshop from one of our partners.",
         "url": "https://cardiff.serverlessdays.io/workshops",
-        "image": "https://res.cloudinary.com/dsctrdkro/image/upload/v1571611423/ServerlessDaysCardiff-card_ljc93r.jpg"
+        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
     },
     "workshops": [   
+        
+        {
+            "title": "Serverlesspresso: Build an event-driven application from the ground up",
+            "description": "Discover how to build a complete coffee-ordering serverless web application using services such as AWS Step Functions and Amazon EventBridge and more.",
+            "date": "20 Sept 2023",
+            "link": "./espresso",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "Location: TBD",
+            "capacity": "20",
+            "speakers": [
+                {
+                  "name": "Wallace Wilhoite",
+                  "title": "CEO",
+                  "company": "SLAppForge"
+                },
+                {
+                    "name": "Asankha Perera",
+                    "title": "Founder",
+                    "company": "SLAppForge"
+                },
+                {
+                    "name": "Udith Gunaratna",
+                    "title": "Co-Founder",
+                    "company": "SLAppForge"
+                }
+            ]
+        },
+        {
+            "title": "Build your first cloud native website with static web apps and serverless APIs",
+            "description": "In this workshop, we'll guide you through a hands-on lab building a website, it's data tier, and the connections between the two.",
+            "date": "20 Sept 2023",
+            "link": "./microsoft",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+            "duration": "4 hours",
+            "start": "13:00",
+            "location": "Location: TBD",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Michael Hume",
+                  "title": "Solutions Architect",
+                  "company": "AWS"
+                }
+            ]
+        }
     ]
 }
