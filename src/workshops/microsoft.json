@@ -1,9 +1,51 @@
 {
-    "layout": "post.njk",
-    "page": {
+    "layout": "workshop.njk",
+    "workshop": {
         "title": "Build your first cloud native website with static web apps and serverless APIs",
-        "description": "In this workshop, we'll guide you through a hands-on lab building a website, it's data tier, and the connections between the two.",
-        "url": "https://cardiff.serverlessdays.io/workshops/microsoft",
-        "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676760468/SLSDaysCardiff-card2_vala0r.jpg"
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
+        "description": "Building apps that scale without needing lots of dev and operations work is a great way to be more productive and deliver business value more quickly. In this workshop, we'll first introduce you to the key technologies in play and then guide you through a hands-on lab taking you through the building of a website, it's data tier, and the connections between the two. We'll show how serverless tech minimises the amount of code you need to write to do amazing things. You'll need your laptop and an Azure subscription (we'll be using free tier stuff for the most part!) to get the most out of this workshop.",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "TBD",
+            "when": "20 September 2023 @ 13:00",
+            "duration": "4 hours"
+        },
+        "speakers": [
+            {
+                "name": "Steph Locke",
+                "img": "/img/steph.jpeg",
+                "bio": "Steph heads up a team of digital and app innovation architects in Microsoft, helping some of the UK's biggest organisations use the cloud to deliver more value faster. She has a broad technology background in data, AI, and software and has experience running consultancies and startups. Steph loves open source, and the impact accessible tech can have on empowering people, so she dedicates her spare time to helping others improve their use of tech.",
+                "social": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/steph",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://linked.com/steph",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Owain Osborne-Walsh",
+                "img": "/img/Owain.jpeg",
+                "bio": "Owain is a Cloud Solution Architect at Microsoft specialising in Kubernetes and container workloads. Owain's passions centre around accelerating customer time to market through innovative well architected technical solutions. Prior to Microsoft Owain worked at AWS, Red Hat and IBM.",
+                "social": [
+                    {
+                        "name": "Twitter",
+                        "link": "https://twitter.com/Owain Osborne-Walsh",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
+                    },
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://linked.com/Owain Osborne-Walsh",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            }
+        ]
     }
 }
