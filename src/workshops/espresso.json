@@ -1,0 +1,29 @@
+{
+    "layout": "workshop.njk",
+    "workshop": {
+        "title": "Serverlesspresso: Build an event-driven application from the ground up",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_100/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "description": "In this workshop, discover how to build a complete coffee-ordering serverless web application. Learn about event-driven architectures and how to use services such as AWS Step Functions and Amazon EventBridge and more. This workshop shows how to combine workflows with events to create powerful architectures that can support production workloads. By the end, you’ll have built a scalable serverless web application that allows your users to order coffee, and allows baristas to keep track of and fulfil orders. You will be provided with a temporary AWS account but must bring your laptop to take part.",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "TBD",
+            "when": "20 September 2023 @ 13:00",
+            "duration": "4 hours"
+        },
+        "speakers": [
+            {
+                "name": "Michael Hume",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/ar_1:1,c_fill,e_art:hokusai,g_auto,w_250/v1689754910/mikehumeserverlesspresso_rznxaa.jpg",
+                "bio": "Michael is as a Senior Solutions Architect for Amazon Web Services, helping Public Sector customers migrate & build software, applications and services on AWS. A proud dedicated member of AWS Serverless technical field community, advocating Serverless to both customers and the wider technical community. He is also a huge Liverpool & Beatles fan!",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/michael-hume-4663bb64/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            }
+        ]
+    }
+}
