@@ -11,6 +11,11 @@
             "name": "Speakers"
         },
         {
+            "key": "sponsors",
+            "path": "/sponsors",
+            "name": "Sponsors"
+        },
+        {
             "key": "agenda",
             "path": "/agenda",
             "name": "Agenda"
