@@ -33,6 +33,11 @@
             }
         ],
         "silver": [
+            {
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,h_80/v1692623893/GlueCharmAppDevAssisstant_pkgzyy.svg",
+                "alt": "Gluecharm",
+                "link": "https://gluecharm.com/"    
+            }
         ],
         "community": [
         ]
