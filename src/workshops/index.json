@@ -14,25 +14,15 @@
             "date": "20 Sept 2023",
             "link": "./espresso",
             "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
-            "duration": "4 hours",
-            "start": "13:00",
-            "location": "Location: TBD",
+            "duration": "3 hours",
+            "start": "14:00",
+            "location": "Location: BJSS",
             "capacity": "20",
             "speakers": [
                 {
-                  "name": "Wallace Wilhoite",
-                  "title": "CEO",
-                  "company": "SLAppForge"
-                },
-                {
-                    "name": "Asankha Perera",
-                    "title": "Founder",
-                    "company": "SLAppForge"
-                },
-                {
-                    "name": "Udith Gunaratna",
-                    "title": "Co-Founder",
-                    "company": "SLAppForge"
+                  "name": "Michael Hume",
+                  "title": "Senior Solutions Architect",
+                  "company": "AWS"
                 }
             ]
         },
@@ -50,6 +40,24 @@
                 {
                   "name": "Steph Locke",
                   "title": "Solutions Architect",
+                  "company": "AWS"
+                }
+            ]
+        },
+        {
+            "title": "Generative AI and Large Language Models with Amazon SageMaker",
+            "description": "In this workshop, learn how to use Amazon SageMaker and other associated services to build, train, and deploy generative AI models.",
+            "date": "20 Sept 2023",
+            "link": "./genai",
+            "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
+            "duration": "3.5 hours",
+            "start": "09:30",
+            "location": "Location: BJSS",
+            "capacity": "25",
+            "speakers": [
+                {
+                  "name": "Francis Flannery",
+                  "title": "Senior Solutions Architect",
                   "company": "AWS"
                 }
             ]
