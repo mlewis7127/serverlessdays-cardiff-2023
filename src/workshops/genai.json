@@ -1,0 +1,29 @@
+{
+    "layout": "workshop.njk",
+    "workshop": {
+        "title": "Generative AI and Large Language Models with Amazon SageMaker",
+        "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_100/v1528241128/Amazon_Web_Services_Logo_white.png",
+        "description": "In this workshop, learn how to use Amazon SageMaker and other associated services to build, train, and deploy generative AI models. This covers off serverless integrations to services such as AWS Glue and Amazon Athena. You will be provided with a temporary AWS account but must bring your laptop to take part.",
+        "notes": "You must have a ServerlessDays ticket to book this workshop. You will be emailed a link to book the workshop after purchasing a ticket.",
+        "session": {
+            "prerequisites": "Please bring your laptop for the hands-on workshop.",
+            "location": "BJSS",
+            "when": "20 September 2023 @ 09:30",
+            "duration": "3.5 hours"
+        },
+        "speakers": [
+            {
+                "name": "Francis Flannery",
+                "img": "https://res.cloudinary.com/dod4lcj3h/image/upload/c_scale,w_250/v1693774139/serverlessdays/francisflannery_socgqj.jpg",
+                "bio": "Francis is as a Senior Solutions Architect for Amazon Web Services, specialising in Machine Learning, Large Language Models and Artifical Intelligence.",
+                "social": [
+                    {
+                        "name": "LinkedIn",
+                        "link": "https://www.linkedin.com/in/francisflannery/",
+                        "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1529879971/SM_Icons/linkedin.svg"
+                    }
+                ]
+            }
+        ]
+    }
+}
