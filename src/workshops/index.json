@@ -14,8 +14,8 @@
             "date": "20 Sept 2023",
             "link": "./espresso",
             "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_60/v1528241128/Amazon_Web_Services_Logo_white.png",
-            "duration": "3 hours",
-            "start": "14:00",
+            "duration": "3.5 hours",
+            "start": "13:30",
             "location": "Location: BJSS",
             "capacity": "20",
             "speakers": [
@@ -34,7 +34,7 @@
             "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_40/v1528242108/microsoft_horizontal_white.png",
             "duration": "4 hours",
             "start": "13:00",
-            "location": "Location: TBD",
+            "location": "Location: Clayton Hotel",
             "capacity": "25",
             "speakers": [
                 {
