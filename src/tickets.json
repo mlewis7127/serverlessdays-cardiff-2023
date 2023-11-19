@@ -12,7 +12,7 @@
             "description": "Standard Admission",
             "price": "£25",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2023",
+                "path": "#",
                 "name": "Expired"
             }
         },
@@ -21,7 +21,7 @@
             "description": "Standard Admission",
             "price": "£35",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2023",
+                "path": "#",
                 "name": "Buy"
             }
         },
@@ -30,7 +30,7 @@
             "description": "Standard Admission for you and sponsor a diversity ticket",
             "price": "£50",
             "cta": {            
-                "path": "https://ti.to/serverlessdays-cardiff/serverlessdays-cardiff-2023",
+                "path": "#",
                 "name": "Buy"
             }
         }
